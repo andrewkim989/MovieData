@@ -1,0 +1,40 @@
+.App {
+  margin: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+#wrapper {
+  background-color: lightgrey;
+}
+#movieform {
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+  padding-left: 30px;
+  border-radius: 8px;
+  width: 470px;
+  background-color: rgb(173, 188, 230);
+}
+::placeholder {
+  padding-left: 5px;
+}
+.btn {
+  margin-left: 10px;
+}
+.error {
+  color: rgb(231, 48, 48);
+  margin-bottom: 5px;
+}
+#blackline {
+  height: 2px;
+  background-color: black;
+  margin-top: 30px;
+}
+#data {
+  padding: 25px;
+  margin-left: 270px;
+  width: 800px;
+  text-align: left;
+  padding-bottom: 30px;
+  font-size: 22px;
+}
